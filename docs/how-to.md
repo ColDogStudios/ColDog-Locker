@@ -1,10 +1,10 @@
 # 1. Installation
 
 ## 1.1 Important Notice
-   ***ColDog Locker Windows*** and ***ColDog Locker Console*** are not designed to be used together, you must use one or the other.
+   Do not attempt to reverse engineer ColDog Locker
 
 ## 1.2 Fresh Install
-  Run ***ColDog Locker Setup*** and go through each prompt carefully. **IT IS IMPORTANT TO LEAVE THE INSTALLATION PATH DEFAULT** ```C:/Program Files (x86)/ColDog Studios/ColDog Locker```
+  Run ***ColDog Locker Setup*** and go through each prompt carefully.
 
 ## 1.3 Updating Previous Install
   There are two methods to update:
@@ -23,8 +23,6 @@
 ### 2.1.1 New
   Selecting the ***New*** option will allow you to create a new folder if you have not already created a folder previously or have deleted your previous folder’s configuration (2.1.2).
   
-  ***IMPORTANT*** - All the letters in your password will end up lowercase. Read the [FAQ](https://github.com/ColDogStudios/ColDog-Locker-Windows/edit/CDS/docs/FAQ.md) for explanation.
-
 ### 2.1.2 Delete
   Selecting the ***Delete*** option will allow you to remove configuration for a folder that is unlocked (2.3.2).
 
@@ -47,8 +45,6 @@
 ### 2.3.2 Unlock Folder
   Selecting the ***Unlock Folder*** option will allow you to unlock your folder with your password.
   
-  ***IMPORTANT*** - Your password will be all lowercase. Read the [FAQ](https://github.com/ColDogStudios/ColDog-Locker-Windows/edit/CDS/docs/FAQ.md) for explanation.
-
 ## 2.4 Tools Menu
 
 ### 2.4.1 System Info
@@ -63,7 +59,7 @@
   Selecting the ***About*** option will show some information about ColDog Locker.
   
 ### 2.5.2 How to Use
-  Selecting the ***[How to Use](https://github.com/ColDogStudios/ColDog-Locker-Windows/docs/how-to-use.md)*** option will open your default web browser to this file.
+  Selecting the ***[How to Use](https://github.com/ColDogStudios/ColDog-Locker/docs/how-to-use.md)*** option will open your default web browser to this file.
 
 ### 2.5.3 Check for Updates
   Selecting the ***Check for Updates*** option will run bitsadmin.exe, a built-in Windows executable, to get text from the [CDS Website](https://ColDogStudios.github.io/projects/coldog-locker/windows/gui-latest.txt) and store it as a variable.

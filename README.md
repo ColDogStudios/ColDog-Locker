@@ -3,7 +3,7 @@
 Copyright © ColDog Studios. All rights reserved.
 
 <p align="center">
-  <img width="1000" src="https://ColDogStudios.github.io/assets/images/ColDog Locker/ColDogLockerWallpaperLite.png">
+  <img width="1000" src="https://ColDogStudios.github.io/assets/images/ColDogLocker/ColDogLockerWallpaperLite.png">
   <br> <br>
   <img src="https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker">
   <img src="https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker/total">
@@ -15,7 +15,6 @@ Copyright © ColDog Studios. All rights reserved.
 ## Dependencies
 
  - Windows Powershell 5.1 or later **MUST** be enabled/installed
- - .NET 4.1 or later **MUST** be installed
 
 ## Compatability
 

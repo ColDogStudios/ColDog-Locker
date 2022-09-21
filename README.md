@@ -43,7 +43,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#important-notice-and-disclaimer">Important Notice & Disclaimer</a></li>
+        <li><a href="#important-notice-and-disclaimer">Important Notice and Disclaimer</a></li>
         <li><a href="#compatability">Compatability</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>

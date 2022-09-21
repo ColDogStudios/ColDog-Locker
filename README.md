@@ -43,8 +43,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#importantn-notice-&-disclaimer">Important Notice & Disclaimer</a></li>
-        <li><a href="compatability">Compatability</a></li>
+        <li><a href="#important-notice-and-disclaimer">Important Notice & Disclaimer</a></li>
+        <li><a href="#compatability">Compatability</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -81,7 +81,7 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Important Notice & Disclaimer
+### Important Notice and Disclaimer
 
 ColDog Studios is committed to keeping your files secure and will fix any security vulnerability as soon as possible. ColDog Studios does not recieve any information from you such as passwords. All of the configuration is stored on your local machine.
 
@@ -188,7 +188,7 @@ Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - cold
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/collin-laney/
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: coldogstudios.business+GitHubContact@gmail.com
+[gmail-url]: mailto:coldogstudios.business+GitHubContact@gmail.com
 
 [.Net-shield]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.Net-url]: https://dotnet.microsoft.com/

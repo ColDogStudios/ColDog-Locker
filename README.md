@@ -109,17 +109,17 @@ Your anti-virus will possibly flag ColDog Locker as a virus. This is a false pos
 What you need before you can install and run ColDog Locker
 
 * Windows PowerShell 5.1 or later (Preinstalled on Windows)
-* .Net 4.6 or later (Preinstalled on Windows)
+* .Net 3.5 or later (Preinstalled on Windows)
 
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```
-   sh
-   git clone https://github.com/ColDogStudios/ColDog-Locker.git
-   ```
+1. Run PowerShell as an Administrator and input the following command:
+
+        Set-ExecutionPolicy RemoteSigned
+
+2. Run ```ColDog Locker Setup``` and install the software
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

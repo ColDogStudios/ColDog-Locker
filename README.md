@@ -78,9 +78,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Important Notice and Disclaimer
 
 ColDog Studios is committed to keeping your files secure and will fix any security vulnerability as soon as possible. ColDog Studios does not recieve any information from you such as passwords. All of the configuration is stored on your local machine.
@@ -88,6 +85,7 @@ ColDog Studios is committed to keeping your files secure and will fix any securi
 Your anti-virus will possibly flag ColDog Locker as a virus. This is a false postitive and you need to make an exclusion.
 
   - By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
+  - The software is provided as is and without warranty as to its features, functionality, or performance.
   - Any unauthorized copying, distributing, or selling of this solftware is prohibited.
 
 ### Compatability

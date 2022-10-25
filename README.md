@@ -150,7 +150,7 @@ See the ColDog Locker [Project Board](https://github.com/ColDogStudios) for a fu
 <!-- CONTACT -->
 ## Contact
 
-Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coldogstudios.business+GitHubContact@gmail.com
+Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coldogstudios.business+Contact@gmail.com
 
 [![@ColDog5044][twitter-shield]][twitter-url]
 [![Collin-Laney][linkedin-shield]][linkedin-url]

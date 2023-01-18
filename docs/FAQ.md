@@ -1,8 +1,8 @@
 > # ColDog Locker FAQ
 
-## Question
+## Why is ColDog Locker not open source?
 
-Answer
+ColDog Locker is not open source for the sole purpose of code security. If you are concerned with your privacy and security, and want to see some of the source code, contact ColDog Studios explicitly requesting to view the source code.
 
 ---
 

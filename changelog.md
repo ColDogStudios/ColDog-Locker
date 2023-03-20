@@ -6,13 +6,17 @@
 
 ## v1.0.0
 
- - Folder Encryption
- - Password Protected Folder
- - Custom Password Encryption
+ - Encryption
+ - Password-Protected Folder
  - Lock & Unlock System
  - Failed Attempts Lockout
- - View System Information
- - Update Checker
+ - Check for Updates
+
+### Improvements from ColDog Locker Windows
+
+ - Better password security
+ - GUI front-end
+ - Improved security
+ - Expandability
 
 ---
-

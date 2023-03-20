@@ -86,7 +86,7 @@ Your anti-virus will possibly flag ColDog Locker as a virus. This is a false pos
 
   - By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
   - The software is provided as is and without warranty as to its features, functionality, or performance.
-  - Any unauthorized copying, distributing, or selling of this solftware is prohibited.
+  - Any unauthorized copying, distributing, or selling of this software is prohibited.
 
 ### Compatability
 

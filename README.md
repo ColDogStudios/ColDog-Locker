@@ -112,9 +112,9 @@ What you need before you can install and run ColDog Locker
 
 ### Installation
 
-1. Run PowerShell as an Administrator and input the following command:
+1. Run PowerShell and input the following command:
 
-        Set-ExecutionPolicy RemoteSigned
+        Set-ExecutionPolicy RemoteSigned CurrentUser
 
 2. Run ```ColDog Locker Setup``` and install the software
 

@@ -41,7 +41,7 @@ body:
       label: Version
       description: What version of ColDog Locker Windows are you running?
       options:
-        - v1.0.0
+        - v0.1.0-Beta-1
     validations:
       required: true
   - type: dropdown

@@ -25,7 +25,7 @@
     <br>
     <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml&title=%5BBug%5D%3A+">Report Bug</a>
     ·
-    <a href="https://github.com/ColDogStudios/ColDog-Locker/issues">Request Feature</a>
+    <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+feature&template=feature_request.yml&title=%5BFeature+Request%5D%3A+">Request Feature</a>
   </p>
 </div>
 

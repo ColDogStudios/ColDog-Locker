@@ -148,7 +148,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 - Update Checker
 
 See the [open issues](https://github.com/ColDogStudios/ColDog-Locker/issues) for a full list of proposed features (and known issues).
-See the ColDog Locker [Project Board](https://github.com/ColDogStudios) for a full list of features being worked on
+See the ColDog Locker [Project Board](https://github.com/orgs/ColDogStudios/projects/2) for a full list of features being worked on
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

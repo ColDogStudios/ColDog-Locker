@@ -23,9 +23,15 @@
     <a href="https://github.com/ColDogStudios/ColDog-Locker/tree/CDS/docs"><strong>Explore the docs »</strong></a>
     <br>
     <br>
+    <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+question&template=ask_a_question.yml&title=%5BQuestion%5D%3A+">Ask a Question</a>
+    ·
     <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml&title=%5BBug%5D%3A+">Report Bug</a>
     ·
     <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+feature&template=feature_request.yml&title=%5BFeature+Request%5D%3A+">Request Feature</a>
+    ·
+    <a href="https://github.com/ColDogStudios/ColDog-Locker/issues/new?assignees=&labels=type%3A+security&template=security.yml&title=%5BSecurity%5D%3A+">Security Issue</a>
+    ·
+    <a href="https://github.com/ColDogStudios/ColDog-Locker/security/advisories/new">Report a Vulnerability</a>
   </p>
 </div>
 

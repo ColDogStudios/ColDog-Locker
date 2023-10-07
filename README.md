@@ -5,7 +5,7 @@
 [![Downloads][downloads-shield]][downloads-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-cds-url]
 
 
 <!-- PROJECT LOGO -->
@@ -86,9 +86,9 @@
 
 ### Important Notice and Disclaimer
 
-ColDog Studios is committed to keeping your files secure and will fix any security vulnerability as soon as possible. ColDog Studios does not recieve any information from you such as passwords. All of the configuration is stored on your local machine.
+ColDog Studios is committed to keeping your files secure and will fix any security vulnerability immediately. ColDog Studios does not receive any information from you such as passwords. All of the configuration is stored on your local machine.
 
-Your anti-virus will possibly flag ColDog Locker as a virus. This is a false postitive and you need to make an exclusion.
+Your anti-virus will possibly flag ColDog Locker as a virus. This is a false positive and you need to make an exclusion.
 
   - By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
   - The software is provided as is and without warranty as to its features, functionality, or performance.
@@ -157,15 +157,15 @@ See the ColDog Locker [Project Board](https://github.com/orgs/ColDogStudios/proj
 
 ColDog Studios - [@ColDogStudios](https://twitter.com/ColDogStudios) - contact@coldogstudios.com
 
-[![@ColDog5044][twitter-shield]][twitter-url]
-[![Collin-Laney][linkedin-shield]][linkedin-url]
-[![Email][gmail-shield]][gmail-url]
+[![@ColDog5044][twitter-shield]][twitter-cds-url]
+[![Collin-Laney][linkedin-shield]][linkedin-cds-url]
+[![Email][email-shield]][email-cds-url]
 
 Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - collin.laney@coldogstudios.com
 
-[![@ColDog5044][twitter-shield]][twitter-url]
-[![Collin-Laney][linkedin-shield]][linkedin-url]
-[![Email][gmail-shield]][gmail-url]
+[![@ColDog5044][twitter-shield]][twitter-coldog-url]
+[![Collin-Laney][linkedin-shield]][linkedin-coldog-url]
+[![Email][email-shield]][email-coldog-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,13 +191,19 @@ Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coll
 [stars-url]: https://github.com/ColDogStudios/ColDog-Locker/stargazers
 
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/
+[github-url]: https://github.com/ColDogStudios
+
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[twitter-url]: https://twitter.com/ColDog5044
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/collin-laney/
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:coldogstudios.business+GitHubContact@gmail.com
+[email-shield]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+
+[twitter-cds-url]: https://twitter.com/ColDogStudios
+[linkedin-cds-url]: https://www.linkedin.com/company/coldog-studios
+[email-cds-url]: mailto:contact@coldogstudios.com
+
+[twitter-coldog-url]: https://twitter.com/ColDog5044
+[linkedin-coldog-url]: https://www.linkedin.com/in/collin-laney/
+[email-coldog-url]: mailto:collin.laney@coldogstudios.com
 
 [.Net-shield]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.Net-url]: https://dotnet.microsoft.com/

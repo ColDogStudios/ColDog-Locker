@@ -175,7 +175,7 @@ Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - cold
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[release-shield]: https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker.svg?style=for-the-badge
+[release-shield]: https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker?style=for-the-badge
 [release-url]: https://github.com/ColDogStudios/ColDog-Locker
 [downloads-shield]: https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker/total.svg?style=for-the-badge
 [downloads-url]: https://github.com/ColDogStudios/ColDog-Locker

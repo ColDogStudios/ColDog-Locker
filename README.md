@@ -143,9 +143,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 - Folder Encryption
 - Password Protected Folders
-- Custom Password Encryption
 - Failed Attempts Lockout
-- Update Checker
+- GitHub integrated Updates
 
 See the [open issues](https://github.com/ColDogStudios/ColDog-Locker/issues) for a full list of proposed features (and known issues).
 See the ColDog Locker [Project Board](https://github.com/orgs/ColDogStudios/projects/2) for a full list of features being worked on

@@ -155,7 +155,11 @@ See the ColDog Locker [Project Board](https://github.com/orgs/ColDogStudios/proj
 <!-- CONTACT -->
 ## Contact
 
-ColDog Studios - [@ColDogStudios](https://https://twitter.com/ColDogStudios) - contact@coldogstudios.com
+ColDog Studios - [@ColDogStudios](https://twitter.com/ColDogStudios) - contact@coldogstudios.com
+
+[![@ColDog5044][twitter-shield]][twitter-url]
+[![Collin-Laney][linkedin-shield]][linkedin-url]
+[![Email][gmail-shield]][gmail-url]
 
 Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - collin.laney@coldogstudios.com
 

@@ -66,16 +66,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### IMPORTANT NOTE:
 
+***ColDog Locker is still in development and does not currently have an official supported release***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
 
-* [![.Net][.Net-shield]][.Net-url]
 * [![PowerShell][PowerShell-shield]][PowerShell-url]
-* [![Windows][Windows-shield]][Windows-url]
+* [![.Net][.Net-shield]][.Net-url]
 * [![C#][C#-shield]][C#-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,29 +85,28 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Important Notice and Disclaimer
+### Important Notice
 
 ColDog Studios is committed to keeping your files secure and will fix any security vulnerability immediately. ColDog Studios does not receive any information from you such as passwords. All of the configuration is stored on your local machine.
 
-Your anti-virus will possibly flag ColDog Locker as a virus. This is a false positive and you need to make an exclusion.
+Your anti-virus will potentially flag ColDog Locker as a virus. This is a false positive and you will need to make an exclusion.
 
   - By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
   - The software is provided as is and without warranty as to its features, functionality, or performance.
   - Any unauthorized copying, distributing, or selling of this software is prohibited.
 
+### Disclaimer of Warranties
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
 ### Compatability
 
-| Operating System | Supported          |
-| ---------------- | ------------------ |
-| Windows 11       | :heavy_check_mark: |
-| Windows 10       | :heavy_check_mark: |
-| < Windows 8.1    | :x:                |
-
-| OS Architecture | Supported          |
-| ----------------| ------------------ |
-| Windows 64 Bit  | :heavy_check_mark: |
-| Windows 32 Bit  | :x:                |
-
+| Operating System      | Supported          |
+| --------------------- | :----------------: |
+| Windows 11            | :heavy_check_mark: |
+| Windows 10 x64        | :heavy_check_mark: |
+| Windows 10 x86-32     | :x:                |
+| Windows 8.1 & Earlier | :x:                |
 
 ### Prerequisites
 
@@ -131,12 +131,13 @@ What you need before you can install and run ColDog Locker
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 *For more examples, please refer to the [Documentation](https://example.com)*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 <!-- FEATURES -->
 ## Features
@@ -159,13 +160,11 @@ ColDog Studios - [@ColDogStudios](https://twitter.com/ColDogStudios) - contact@c
 
 [![@ColDog5044][twitter-shield]][twitter-cds-url]
 [![Collin-Laney][linkedin-shield]][linkedin-cds-url]
-[![Email][email-shield]][email-cds-url]
 
 Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - collin.laney@coldogstudios.com
 
 [![@ColDog5044][twitter-shield]][twitter-coldog-url]
 [![Collin-Laney][linkedin-shield]][linkedin-coldog-url]
-[![Email][email-shield]][email-coldog-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,21 +194,16 @@ Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coll
 
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[email-shield]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 
 [twitter-cds-url]: https://twitter.com/ColDogStudios
 [linkedin-cds-url]: https://www.linkedin.com/company/coldog-studios
-[email-cds-url]: mailto:contact@coldogstudios.com
 
 [twitter-coldog-url]: https://twitter.com/ColDog5044
 [linkedin-coldog-url]: https://www.linkedin.com/in/collin-laney/
-[email-coldog-url]: mailto:collin.laney@coldogstudios.com
 
 [.Net-shield]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.Net-url]: https://dotnet.microsoft.com/
 [PowerShell-shield]:https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white
 [PowerShell-url]: https://docs.microsoft.com/en-us/powershell/
-[Windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[Windows-url]: https://www.microsoft.com/en-us/windows
 [C#-shield]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [C#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
